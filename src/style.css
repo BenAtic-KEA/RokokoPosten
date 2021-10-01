@@ -69,13 +69,14 @@
 
 .content-news {
     width: 645px;
+    height: 200px;
     margin: auto;
     text-align: left;
     border:2px solid black;
 }
 .content-box {
     vertical-align: top;
-    height: 260px;
+    height: 200px;
     width: 360px;
 }
 #bloc1, #bloc2{
