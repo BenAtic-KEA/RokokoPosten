@@ -74,7 +74,9 @@
 }
 #bloc1, #bloc2
 {
-    display: inline;
+    width: 50%;
+    height: 180px;
+    display: inline-block;
 }
 .content-title{
     color: black;
