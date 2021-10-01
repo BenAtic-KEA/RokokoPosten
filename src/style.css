@@ -71,13 +71,22 @@
     width: 645px;
     margin: auto;
     text-align: left;
+    border:2px solid black;
 }
-#bloc1, #bloc2
-{
-    width: 50%;
-    height: 180px;
+.content-box {
+    vertical-align: top;
+    height: 260px;
+    width: 360px;
+}
+#bloc1, #bloc2{
     display: inline-block;
+}
+#bloc1
+{
+    padding: 1px;
+    width: 260px;
 }
 .content-title{
     color: black;
+
 }
